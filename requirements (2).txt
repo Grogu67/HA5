@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.6
+confluent-kafka[avro]==2.5.3
+fastavro>=1.9
+requests>=2.31

@@ -1,0 +1,7 @@
+<clickhouse>
+    <profiles>
+        <default>
+            <format_avro_schema_registry_url>http://schema-registry:8081</format_avro_schema_registry_url>
+        </default>
+    </profiles>
+</clickhouse>

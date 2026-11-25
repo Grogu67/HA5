@@ -1,0 +1,6 @@
+<clickhouse>
+    <!-- Новая consumer group читает топик с самого начала -->
+    <kafka>
+        <auto_offset_reset>earliest</auto_offset_reset>
+    </kafka>
+</clickhouse>
